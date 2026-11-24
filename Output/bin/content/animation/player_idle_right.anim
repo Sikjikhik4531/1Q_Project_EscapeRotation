@@ -1,0 +1,28 @@
+[Animation_Name]
+IDLE_RIGHT
+[Texture_Name]
+PlayerTex
+[Texture_Path]
+texture\Runner.bmp
+[Frame_Count]
+2
+[Frame_Index]
+0
+[Left_Top]
+0, 249
+[Slice_Size]
+80, 83
+[Duration]
+0.500000
+
+
+[Frame_Index]
+1
+[Left_Top]
+0, 249
+[Slice_Size]
+80, 83
+[Duration]
+0.500000
+
+

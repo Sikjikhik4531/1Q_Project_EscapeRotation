@@ -1,0 +1,88 @@
+[Animation_Name]
+RUN_LEFT
+[Texture_Name]
+PlayerTex
+[Texture_Path]
+texture\Runner.bmp
+[Frame_Count]
+8
+[Frame_Index]
+0
+[Left_Top]
+0, 83
+[Slice_Size]
+80, 83
+[Duration]
+0.050000
+
+
+[Frame_Index]
+1
+[Left_Top]
+80, 83
+[Slice_Size]
+80, 83
+[Duration]
+0.050000
+
+
+[Frame_Index]
+2
+[Left_Top]
+160, 83
+[Slice_Size]
+80, 83
+[Duration]
+0.050000
+
+
+[Frame_Index]
+3
+[Left_Top]
+240, 83
+[Slice_Size]
+80, 83
+[Duration]
+0.050000
+
+
+[Frame_Index]
+4
+[Left_Top]
+320, 83
+[Slice_Size]
+80, 83
+[Duration]
+0.050000
+
+
+[Frame_Index]
+5
+[Left_Top]
+400, 83
+[Slice_Size]
+80, 83
+[Duration]
+0.050000
+
+
+[Frame_Index]
+6
+[Left_Top]
+480, 83
+[Slice_Size]
+80, 83
+[Duration]
+0.050000
+
+
+[Frame_Index]
+7
+[Left_Top]
+560, 83
+[Slice_Size]
+80, 83
+[Duration]
+0.050000
+
+
